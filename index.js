@@ -18,7 +18,7 @@ const questions = [{
     type: 'checkbox',
     name: 'tOc',
     message: 'What sections do you want to include in the Table of Contents?',
-    choices: ['Installation', 'Usage', 'Contributing', 'Test', 'Questions', ],
+    choices: ['Installation', 'Usage', 'License', 'Contributing', 'Test', 'Questions' ],
 },
 
 {
