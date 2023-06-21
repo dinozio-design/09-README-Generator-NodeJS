@@ -32,6 +32,17 @@ const questions = [{
     message: 'Provide instructions and examples for use.',
 },
 {
+    type: 'list',
+    name: 'license',
+    message: 'Select a license for your application?',
+    choices: ['MIT', 'ISC', 'PDDL', 'Zlib', ],
+},
+{
+    type: 'input',
+    name: 'tests',
+    message: 'Provide test cases and instructions.',
+},
+{
     type: 'input',
     name: 'gitHub',
     message: 'What is your gitHub username?',
