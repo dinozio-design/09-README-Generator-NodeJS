@@ -15,9 +15,10 @@ const questions = [{
     message: 'Provide a short description explaining the what, why, and how of your project:',
 },
 {
-    type: 'confirm',
+    type: 'checkbox',
     name: 'tOc',
-    message: 'Do you want to include Table Of Content (ToC)?',
+    message: 'What sections do you want to include in the Table of Contents?',
+    choices: ['Installation', 'Usage', 'Contributing', 'Test', 'Questions', ],
 },
 
 {
