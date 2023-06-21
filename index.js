@@ -23,7 +23,7 @@ function init() {
     inquirer
         .prompt(questions)
         .then((answers) => {
-            const data = markDown.generateMarkdown(answers);
+            const data = markDown(answers);
             writeToFile("README.md", data);
         });
 
