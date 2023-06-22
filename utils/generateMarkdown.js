@@ -48,7 +48,7 @@ function generateMarkdown(data) {
   };
 
 
-  return `# ${title} | 
+  return `# ${title} 
   ${licenseBadge}
 
 ## Description
