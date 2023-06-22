@@ -41,5 +41,11 @@ If you have any questions, you can reach us via:
   GitHub: [09-README-Generator-NodeJS - link](https://github.com/dinozio-design/09-README-Generator-NodeJS)<br>
   email: <sam@dinozio.design><br>
 
+### Deployed Links
+
+1. You can find the video walkthrough of a typical user flow of the application **here:** <br>[09-README-Generator-NodeJS - link](https://drive.google.com/file/d/1NwPRD4THDTfRObkEHVZuyi3QspYRBKmD/view?usp=sharing)
+
+2. You can find the URL of my GitHub repository that contains this code **here:** <br>[GitHub Repo - link](https://github.com/dinozio-design/09-README-Generator-NodeJS)
+
 ### Authors Notes: 
   _This README and accompanying repo have been brought to you by:_<br>© Sam Azimi - 2023 CodeCamp Studen.<br>Confidential and Proprietary. All Rights Reserved.
