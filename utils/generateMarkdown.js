@@ -34,7 +34,7 @@ function generateMarkdown(data) {
   var licenseLink = renderLicenseLink(data.license);
   var licenseBadge = renderLicenseBadge(data.license);
   var licenseSection = renderLicenseSection(data.license);
-  console.log(data.tOc[0]);
+
   data.tOc.forEach(element => {
     tOc += `- [${element}](#${element.toLowerCase()})
 `;
